@@ -205,3 +205,14 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.about-top {
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+
+.about-top .text-container {
+    width: 100%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
