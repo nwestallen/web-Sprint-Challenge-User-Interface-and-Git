@@ -216,3 +216,13 @@ footer nav a {
     padding: 0 1%;
     padding-bottom: 20px;  
 }
+
+.about-middle {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 48%;
+    padding: 1%;
+}
